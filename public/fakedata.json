@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cover": "../src/assets/images/1.jpg",
+    "title": "The Lost Horizon",
+    "author": "John Doe",
+    "author_img": "../src/assets/images/boy1.png",
+    "posted_date": "2024-09-20",
+    "reading_time": 5,
+    "hashtags": ["fiction", "adventure", "bestseller"]
+  },
+  {
+    "id": 2,
+    "cover": "../src/assets/images/2.png",
+    "title": "Whispers in the Wind",
+    "author": "Jane Smith",
+    "author_img": "../src/assets/images/boy2.png",
+    "posted_date": "2024-09-15",
+    "reading_time": 8,
+    "hashtags": ["romance", "drama", "emotional"]
+  },
+  {
+    "id": 3,
+    "cover": "../src/assets/images/3.png",
+    "title": "A Journey Unknown",
+    "author": "Sam Lee",
+    "author_img": "../src/assets/images/girl1.jpg",
+    "posted_date": "2024-09-10",
+    "reading_time": 7,
+    "hashtags": ["thriller", "mystery", "suspense"]
+  },
+  {
+    "id": 4,
+    "cover": "../src/assets/images/4.jpg",
+    "title": "Echoes of Eternity",
+    "author": "Emily Clark",
+    "author_img": "../src/assets/images/girl2.jpg",
+    "posted_date": "2024-09-08",
+    "reading_time": 6,
+    "hashtags": ["fantasy", "magic", "epic"]
+  }
+]
